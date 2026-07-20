@@ -42,7 +42,10 @@
       "site-tailwind-css.css"
     ],
     "src": "assets/styles/site-tailwind.css",
-    "isEntry": true
+    "isEntry": true,
+    "assets": [
+      "assets/texture-abstract-1-BuE6g2L9.jpg"
+    ]
   },
   "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
     "file": "assets/fa-brands-400-BP5tdqmh.woff2",
@@ -55,5 +58,9 @@
   "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
     "file": "assets/fa-solid-900-DRAAbZTg.woff2",
     "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "static/images/web/texture-abstract-1.jpg": {
+    "file": "assets/texture-abstract-1-BuE6g2L9.jpg",
+    "src": "static/images/web/texture-abstract-1.jpg"
   }
 }
